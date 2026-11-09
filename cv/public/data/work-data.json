@@ -1,0 +1,34 @@
+{
+  "workData": [
+    {
+      "title": "SLC Transporters as Breast Cancer Biomarkers",
+      "tag": "Science Capstone · TCGA / UCSC Xena",
+      "description": "Capstone proposal investigating SLC transporter gene expression as prognostic biomarkers in breast cancer using public TCGA data."
+    },
+    {
+      "title": "Genistein Solid Lipid Nanoparticles",
+      "tag": "BMED702 · Drug Delivery",
+      "description": "Formulation dossier and funding pitch for an oral solid lipid nanoparticle delivery system for genistein, targeting breast and prostate cancer."
+    },
+    {
+      "title": "Liposome and Microsphere Formulation Labs",
+      "tag": "BMED702 · Laboratory",
+      "description": "Prepared alginate microspheres, chitosan-coated microparticles and liposomes; ran paracetamol dissolution and calculated encapsulation efficiency."
+    },
+    {
+      "title": "Multi-omics Analysis Workflows",
+      "tag": "MICR700 · Bioinformatics",
+      "description": "Metagenomics (FastQC, QUAST, CheckM), transcriptomics (DESeq2, PCA), metabolomics (MetaboAnalyst) and phylogenetics (IQ-TREE)."
+    },
+    {
+      "title": "Kauri Dieback in Aotearoa",
+      "tag": "Conservation · Science Communication",
+      "description": "Five-minute video on kauri dieback disease in Aotearoa New Zealand, centred on the Waitākere Ranges."
+    },
+    {
+      "title": "Vitamin B12 Conjugate Imaging Reagents",
+      "tag": "Critical Literature Review",
+      "description": "Critical review of vitamin B12 conjugates as imaging reagents."
+    }
+  ]
+}

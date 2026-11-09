@@ -1,0 +1,105 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "christian.nehrujannehru@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:christian.nehrujannehru@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "022 350 5418",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+64223505418"
+      },
+      {
+        "type": "location",
+        "label": "Otahuhu, Auckland, NZ",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.google.com/maps/search/?api=1&query=Otahuhu,Auckland"
+      }
+    ],
+    "socialItems": []
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "BSc, Double Major – 2024–2026",
+        "description": "Biomedical Science & Biological Science at Auckland University of Technology (AUT). GPA 7.50. Ongoing."
+      },
+      {
+        "title": "Bachelor of Agriculture Technology and Management – 2023",
+        "description": "University of Peradeniya, Sri Lanka."
+      },
+      {
+        "title": "Selected Results",
+        "description": "A+ in Introduction to Biomedical Science, Vision Mātauranga, Natural Biomedical Products and Principles of Chemistry. A in Drug Delivery and Formulation and Decoding Life."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Microbiology",
+        "items": [
+          "Sterile culture and aseptic technique",
+          "Gram and differential staining"
+        ]
+      },
+      {
+        "name": "Cell Biology",
+        "items": [
+          "Light and fluorescence microscopy",
+          "Haemocytometer cell counting"
+        ]
+      },
+      {
+        "name": "Molecular Biology",
+        "items": [
+          "qPCR",
+          "DNA/RNA extraction and handling",
+          "Gel electrophoresis"
+        ]
+      },
+      {
+        "name": "Drug Delivery",
+        "items": [
+          "Liposome preparation (thin-film hydration)",
+          "Microsphere fabrication",
+          "Dissolution testing"
+        ]
+      },
+      {
+        "name": "Bioinformatics",
+        "items": [
+          "TCGA / UCSC Xena gene expression",
+          "QIIME2 / DADA2 amplicon workflows",
+          "NCBI BLAST, MetaboAnalyst, FastQC"
+        ]
+      },
+      {
+        "name": "Tools",
+        "items": [
+          "ImageJ / Fiji",
+          "R (basic)",
+          "Statistical analysis software",
+          "Microsoft Office Suite"
+        ]
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "christian.nehrujannehru@gmail.com",
+        "link": "mailto:christian.nehrujannehru@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "022 350 5418",
+        "link": "tel:+64223505418"
+      }
+    ]
+  }
+}
